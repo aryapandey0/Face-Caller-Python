@@ -1,10 +1,12 @@
-fastapi
-uvicorn
+fastapi==0.110.0
+uvicorn==0.29.0
+
+deepface==0.0.93
 
 tensorflow==2.15.0
 tf-keras==2.15.0
 
-deepface
-opencv-python-headless
-numpy
-pillow
+opencv-contrib-python-headless==4.9.0.80
+
+numpy==1.26.4
+pillow==10.2.0
