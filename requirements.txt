@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+deepface
+tensorflow
+opencv-python-headless
+numpy
+pillow
